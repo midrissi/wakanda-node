@@ -1,0 +1,20 @@
+{
+  "name": "node-wakanda",
+  "description": "A simple node connector for the Wakanda DB",
+  "version": "0.0.1",
+  "author": "Mohamed IDRISSI <med.idrissi@outlook.com>",
+  "dependencies": {
+    "async": "^1.4.2",
+    "backbone": ">=1.1.2",
+    "q": "^1.4.1"
+  },
+  "keywords": [
+    "wakandaDB",
+    "wakanda",
+    "dataclass",
+    "rest",
+    "node"
+  ],
+  "main": "./index",
+  "license": "MIT"
+}
