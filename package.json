@@ -1,5 +1,5 @@
 {
-  "name": "node-wakanda",
+  "name": "wakanda-node",
   "description": "A simple node connector for the Wakanda DB",
   "version": "0.0.1",
   "author": "Mohamed IDRISSI <med.idrissi@outlook.com>",
